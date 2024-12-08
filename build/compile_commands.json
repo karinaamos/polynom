@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/c++ (2024-2025)/Polynom/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  -std=c++17 -g -o CMakeFiles\\main.dir\\main.cpp.obj -c \"C:\\c++ (2024-2025)\\Polynom\\main.cpp\"",
+  "file": "C:\\c++ (2024-2025)\\Polynom\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\main.cpp.obj"
+}
+]
